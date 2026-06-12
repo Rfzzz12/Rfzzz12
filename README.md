@@ -1,80 +1,55 @@
-<h1 align="center"><b>Hola, soy Rubén </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<h1 align="center">Hola, soy Rubén <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**Sobre mi**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
 
-🎓Estudiante de Big Data y Analítica de Datos, apasionado por el mundo de los datos, el Machine Learning y la Inteligencia Artificial.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruben-fernandezz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-Me gusta descubrir patrones, extraer información valiosa y desarrollar soluciones que permitan tomar mejores decisiones a partir de los datos. Disfruto aprendiendo nuevas tecnologías y aplicando mis conocimientos en proyectos prácticos que me ayuden a seguir creciendo profesionalmente.
+---
 
-**🚀 Actualmente aprendiendo**
+### 🙋‍♂️ Sobre mí
 
-🤖 Machine Learning
+🎓 Soy un apasionado de los datos, el Machine Learning y la Inteligencia Artificial, en constante formación para convertirme en Data Analyst.
 
-🐍 Python para Ciencia de Datos
+Me encanta **descubrir patrones ocultos** en los datos, **extraer información valiosa** y transformarla en decisiones que generen impacto real. Cada proyecto es para mí una oportunidad de aprender algo nuevo: desde limpiar y explorar datasets hasta construir modelos predictivos o dashboards interactivos.
 
-📊 Visualización de Datos
 
-🧠 Inteligencia Artificial
+Estoy construyendo mi portfolio paso a paso, con foco en proyectos prácticos que demuestren no solo lo que sé, sino cómo pienso y resuelvo problemas con datos reales.
 
-**💡 Áreas de interés**
+---
 
-📈 Análisis y exploración de datos (EDA)
+### 🚀 Actualmente aprendiendo
 
-🔮 Modelos predictivos
+<p align="center">
+🤖 Machine Learning &nbsp;|&nbsp; 🐍 Python para Ciencia de Datos &nbsp;|&nbsp; 📊 Visualización de Datos &nbsp;|&nbsp; 🧠 Inteligencia Artificial
+</p>
 
-🧹 Limpieza y transformación de datos
+### 💡 Áreas de interés
 
-📊 Business Intelligence
+<p align="center">
+📈 EDA &nbsp;|&nbsp; 🔮 Modelos predictivos &nbsp;|&nbsp; 🧹 Limpieza de datos &nbsp;|&nbsp; 📊 Business Intelligence &nbsp;|&nbsp; ⚡ Automatización de procesos
+</p>
 
-🤖 Machine Learning e IA
+---
 
-⚡ Automatización de procesos
+<h3 align="center">🛠️ Mis Skills </h3>
 
-## My Skills Include
-
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
- 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
+---
 
-</span>
-
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
-
-
-
-</span>
-
-## Check out my Social Media
-
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.tiktok.com/@vapixel_" >
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
-</a>
-<a href="https://www.twitch.tv/valenwerle" >
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-</a>
-<a href="https://www.youtube.com/@ValenWerle">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
-</a>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rfzzz12&show_icons=true&theme=radical&hide_border=true" width="450">
+</p>
