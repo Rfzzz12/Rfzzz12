@@ -1,10 +1,9 @@
 <h1 align="center">Hola, soy Rubén <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspirante+a+Data+Analyst;Python+%7C+SQL+%7C+Pandas+%7C+Power+BI;Transformando+datos+en+decisiones" alt="Typing SVG" />
 </p>
 
----
 
 ### 🙋‍♂️ Sobre mí
 
