@@ -4,12 +4,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruben-fernandezz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
 ---
 
 ### 🙋‍♂️ Sobre mí
@@ -17,7 +11,6 @@
 🎓 Soy un apasionado de los datos, el Machine Learning y la Inteligencia Artificial, en constante formación para convertirme en Data Analyst.
 
 Me encanta **descubrir patrones ocultos** en los datos, **extraer información valiosa** y transformarla en decisiones que generen impacto real. Cada proyecto es para mí una oportunidad de aprender algo nuevo: desde limpiar y explorar datasets hasta construir modelos predictivos o dashboards interactivos.
-
 
 Estoy construyendo mi portfolio paso a paso, con foco en proyectos prácticos que demuestren no solo lo que sé, sino cómo pienso y resuelvo problemas con datos reales.
 
@@ -50,6 +43,10 @@ Estoy construyendo mi portfolio paso a paso, con foco en proyectos prácticos qu
 
 ---
 
+<h3 align="center">📫 Contacto</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rfzzz12&show_icons=true&theme=radical&hide_border=true" width="450">
+  <a href="https://www.linkedin.com/in/ruben-fernandezz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
